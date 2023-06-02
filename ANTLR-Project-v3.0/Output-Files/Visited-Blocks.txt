@@ -1,0 +1,3 @@
+Block number 0 is visited only once
+Block number 1 is visited 5 times
+Block number 2 is visited only once
